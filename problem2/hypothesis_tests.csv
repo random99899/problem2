@@ -1,0 +1,4 @@
+Test,t/U,p-value,Significant (α=0.05)
+Independent t-test,27.78817126535836,3.824417169000045e-38,True
+Mann-Whitney U,1156.0,7.035163622065815e-13,True
+Cohen's d (Effect Size),6.840974865284023,,True

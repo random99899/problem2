@@ -1,0 +1,7 @@
+Celebrity,Season,System,Weeks_Survived,Avg_System_Rank,Avg_Judge_Rank,Avg_Fan_Rank,Judge_Fan_Rank_Gap,Weeks_in_Bottom2,Min_Safety_Margin,Avg_Safety_Margin
+Bobby Bones,27,Rank,9,6.333333333333333,7.0,4.555555555555555,2.4444444444444446,4,0,2.6666666666666665
+Bobby Bones,27,Percentage,5,8.6,8.8,5.6,3.2,1,0,2.4
+Bobby Bones,27,Rank+Save,5,8.0,8.8,5.8,3.0,1,1,3.0
+Jerry Rice,2,Rank,8,4.25,5.0,3.375,1.625,4,1,2.25
+Jerry Rice,2,Percentage,6,5.333333333333333,5.5,4.166666666666667,1.3333333333333333,4,0,2.1666666666666665
+Jerry Rice,2,Rank+Save,6,4.833333333333333,5.5,4.166666666666667,1.3333333333333333,2,1,2.6666666666666665

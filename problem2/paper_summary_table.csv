@@ -1,0 +1,13 @@
+Category,Metric,Value
+FII Comparison,Mean FII (Rank),0.5887
+FII Comparison,Mean FII (Percentage),0.8573
+FII Comparison,FII Difference (Pct-Rank),0.2686
+FII Comparison,Seasons where Pct > Rank,34/34 (100.0%)
+Statistical Test,t-test p-value,3.82e-38
+Statistical Test,Cohen's d,6.841
+Champion Stability,Avg Flip Rate,51.1%
+Champion Stability,Max Flip Rate,93.0%
+Controversy Stars,Avg Fate Divergence,3.22 weeks
+Controversy Stars,Max Fate Divergence,4.02 weeks
+AHP Decision,Recommended System,Rank
+AHP Decision,Recommend Judges Save,Yes
